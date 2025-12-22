@@ -1,4 +1,4 @@
-#Sales Performance & Order Insights Dashboard | Power BI
+Sales Performance & Order Insights Dashboard | Power BI
 
 Designed an interactive Power BI dashboard to analyze total sales revenue across products, regions, and categories
 
