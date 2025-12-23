@@ -1,13 +1,67 @@
-Sales Performance & Order Insights Dashboard | Power BI
+📊 Sales Performance Dashboard | Power BI
+🔍 Project Overview
 
-Designed an interactive Power BI dashboard to analyze total sales revenue across products, regions, and categories
+This project analyzes sales performance data to track revenue trends, customer behavior, and product performance.
+The dashboard helps business stakeholders quickly understand how sales are performing, where revenue is coming from, and which areas need improvement.
 
-Built KPIs including Total Sales, YoY Growth, Cancellation Rate, Order Status Distribution
+🎯 Business Problem
 
-Performed product-wise and regional sales analysis to identify top and underperforming segments
+Sales teams often face challenges such as:
 
-Implemented DAX measures for year-over-year comparison and percentage calculations
+Not knowing which products or regions drive the most revenue
 
-Used slicers and tooltips to enable dynamic filtering by year, month, product, and order status
+Difficulty tracking sales growth over time
 
-Improved business decision-making through clear visual storytelling and performance tracking
+Lack of clarity on customer purchasing behavior
+
+This dashboard converts raw sales data into clear insights for faster and better decision-making.
+
+🛠️ Tools & Technologies Used
+
+Power BI – Interactive dashboard & visual analytics
+
+Excel / CSV – Data cleaning & preprocessing
+
+📌 Key KPIs Analyzed
+
+Total Sales Revenue
+
+Total Orders
+
+Average Order Value (AOV)
+
+Sales Growth (MoM / YoY)
+
+Top-Selling Products
+
+Region-wise Sales Performance
+
+Customer Contribution
+
+📈 Dashboard Features
+
+KPI cards for quick performance tracking
+
+Product-wise and category-wise sales analysis
+
+Region-wise sales comparison
+
+Time-based trends to identify growth or decline
+
+Interactive filters for deep-dive analysis
+
+🔑 Key Insights
+
+A small number of products contribute to a major portion of total revenue
+
+Certain regions consistently outperform others in sales volume
+
+Sales trends reveal seasonal patterns affecting revenue
+
+💡 Business Recommendations
+
+Focus marketing efforts on high-performing products and regions
+
+Improve strategies in low-performing regions to boost revenue
+
+Use sales trend analysis for better inventory and demand planning
